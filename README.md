@@ -1,4 +1,3 @@
-
 # ML-NERCyber: Named Entity Recognition for Cybersecurity
 
 ## Overview
@@ -47,6 +46,9 @@ ML-NERCyber/
 │   ├── explore_data.py     	  # Analyse dataset
 ├── config.py                     # Configuration file
 ├── requirements.txt              # Required Python libraries
+├── main.py                       # Entry point script
+├── predictions.jsonlines         # Output prediction
+
 ├── main.py                       # Entry point script
 └── README.md                     # Project documentation
 ```
@@ -106,4 +108,3 @@ Additionally, per-class metrics (e.g., `B-Entity`, `I-Action`, etc.) are calcula
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ---
-
