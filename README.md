@@ -47,7 +47,9 @@ ML-NERCyber/
 ├── config.py                     # Configuration file
 ├── requirements.txt              # Required Python libraries
 ├── main.py                       # Entry point script
+├── predictions.jsonlines         # Prediction output
 └── README.md                     # Project documentation
+
 ```
 
 ---
