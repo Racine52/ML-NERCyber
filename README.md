@@ -33,24 +33,23 @@ Ensure that Python 3.8+ is installed on your system.
 ```
 ML-NERCyber/
 ├── code/
-│   ├── huggingFace_train.py      # Training script
-│   ├── huggingFace_test.py       # Prediction script
-│   ├── huggingFace_val.py        # Validation script
+│   ├── huggingFace_train.py      	# Training script
+│   ├── huggingFace_test.py       	# Prediction script
+│   ├── huggingFace_val.py        	# Validation script
 ├── data/
-│   ├── NER-TESTING.jsonlines     # Testing dataset   
-│   ├── NER-TRAINNING.jsonlines   # Training dataset  
-│   ├── NER-VALIDATION.jsonlines  # Validation dataset
+│   ├── NER-TESTING.jsonlines     	# Testing dataset   
+│   ├── NER-TRAINNING.jsonlines   	# Training dataset  
+│   ├── NER-VALIDATION.jsonlines  	# Validation dataset
 ├── outils/
-│   ├── compute_seqeval.py     	  # Analyse prediction  
-│   ├── data_processing.py     	  # Process data  
-│   ├── explore_data.py     	  # Analyse dataset
-├── config.py                     # Configuration file
-├── requirements.txt              # Required Python libraries
-├── main.py                       # Entry point script
-├── predictions.jsonlines         # Output prediction
-
-├── main.py                       # Entry point script
-└── README.md                     # Project documentation
+│   ├── compute_seqeval.py     	  	# Analyse prediction  
+│   ├── data_processing.py     	  	# Process data  
+│   ├── explore_data.py     	  	# Analyse dataset
+├── config.py                     	# Configuration file
+├── requirements.txt              	# Required Python libraries
+├── main.py                       	# Entry point script
+├── predictions.jsonlines         	# Output prediction
+├── Ma513_MAILLE_MILLET_VANTHORRE.pdf 	# Article
+└── README.md                     	# Project documentation
 ```
 
 ---
@@ -103,8 +102,8 @@ Additionally, per-class metrics (e.g., `B-Entity`, `I-Action`, etc.) are calcula
 
 ---
 
-## Contributions
+## Article
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+You can download our article with the followed link [link](https://github.com/Racine52/ML-NERCyber/blob/main/Ma513_MAILLE_MILLET_VANTHORRE.pdf)
 
 ---
