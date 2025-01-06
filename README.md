@@ -4,6 +4,9 @@
 
 **ML-NERCyber** is a machine learning project designed to perform Named Entity Recognition (NER) in the cybersecurity domain. The project leverages state-of-the-art models like **SecBERT** and **Hugging Face Transformers** to identify and classify named entities such as malware, vulnerabilities, indicators, and more from unstructured textual data. This repository includes tools for training, evaluating, and predicting NER models, as well as utilities for analyzing datasets and assessing model predictions.
 
+
+Co-worker : Tristan MAILLE / Titouan MILLET / Louan VANTHORRE
+
 ---
 
 ## Features
@@ -104,6 +107,6 @@ Additionally, per-class metrics (e.g., `B-Entity`, `I-Action`, etc.) are calcula
 
 ## Article
 
-You can download our article with the followed link [link](https://github.com/Racine52/ML-NERCyber/blob/main/Ma513_MAILLE_MILLET_VANTHORRE.pdf)
+You can download our article with the followed [link](https://github.com/Racine52/ML-NERCyber/blob/main/Ma513_MAILLE_MILLET_VANTHORRE.pdf)
 
 ---
